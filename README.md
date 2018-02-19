@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to IS117
 
 You can use the [editor on GitHub](https://github.com/tc322/IS117-First-Website/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
